@@ -1,0 +1,14 @@
+#home-page{
+    display: flex;
+    background-image: url(/images/spotify-background.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1200px;
+    width: 2000px;
+} 
+
+#label-home{
+    margin-top: 25%;
+    margin-left: 50%;
+}
